@@ -1,3 +1,2 @@
-def test:
-  print("Test function added via github browser");
-end
+def test() :
+  print("Test function added via github browser")
