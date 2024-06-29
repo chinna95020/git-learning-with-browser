@@ -1,2 +1,3 @@
 # git-learning-with-browser
-Git hub learning through browser
+
+This project includes index and about pages.
